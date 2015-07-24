@@ -1,0 +1,37 @@
+{
+  "name": "angellouirouter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ctkdev/angelloUiRouter",
+  "authors": [
+    "Christopher Thaddeus Kwiatkowski <chris@cogdasolutions.com>"
+  ],
+  "description": "Angello Project with Angular UI-Router",
+  "keywords": [
+    "angularjs",
+    "ui-router",
+    "grunt",
+    "npm",
+    "egghead.io"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.9",
+    "angular-ui-router": "~0.2.8",
+    "bootstrap": "~3.1.1",
+    "underscore": "~1.8.3",
+    "js-data": "~1.8.0",
+    "js-data-http": "~1.2.3",
+    "js-data-angular": "~2.4.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.0"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "angellouirouter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctkdev/angelloUiRouter.git"
+  },
+  "keywords": [
+    "angularjs",
+    "ui-router",
+    "grunt",
+    "npm",
+    "egghead.io"
+  ],
+  "author": "Christopher Thaddeus Kwiatkowski (ctkdev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ctkdev/angelloUiRouter/issues"
+  },
+  "homepage": "https://github.com/ctkdev/angelloUiRouter#readme",
+  "devDependencies": {
+    "browserify": "^4.1.8",
+    "doge-debug": "^1.0.2",
+    "express": "~3.4.7",
+    "grunt": "~0.4.2",
+    "grunt-browserify": "^2.1.0",
+    "grunt-concurrent": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-less": "^0.11.1",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt-html2js": "~0.2.3",
+    "grunt-ng-annotate": "^0.9.2",
+    "grunt-nodemon": "~0.1.2",
+    "karma": "^0.12.36",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  },
+  "dependencies": {
+    "angular-browserify-event-dispatcher": "0.0.7"
+  }
+}
